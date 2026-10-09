@@ -57,8 +57,4 @@ The script creates a clean virtual environment, installs the pinned runtime and 
 
 - Packing closes a running Deadlock process so that locked addon files can be replaced.
 - The default output filename is `basepostprocess_deadlock.vpost`.
-- The MIT license covers the original application source and project scripts. Deadlock, Source 2, and Valve trademarks and game content belong to their respective owners.
-
-## License
-
-Original project code is available under the [MIT License](LICENSE). See [third-party notices](THIRD_PARTY_NOTICES.md) for bundled dependencies.
+- Deadlock, Source 2, and Valve trademarks and game content belong to their respective owners.
