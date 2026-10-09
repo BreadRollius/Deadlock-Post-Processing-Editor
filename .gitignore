@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+.venv/
+.venv-build/
+build/
+dist/
+*.spec
+Outputs/
+
+# Local toolchains and game files must not be committed.
+CSDK/
+Reduced_CSDK_*/
+resourcecompiler.exe
+*.vpk
+
+# Local/editor files.
+.idea/
+.vscode/
+Thumbs.db
+desktop.ini
+
+# One-off local presets and legacy assets that are not part of the distributable project.
+create_cinematic_preset.py
+Base LUT/No Post Processing.png
+Base LUT/basepostprocess.vpost
+Example/*.vpost
